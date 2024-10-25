@@ -1,0 +1,25 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+g
+7src/main/java/pe/edu/vg/controller/LogonController.java,b\b\bb7c17be8fdfcd53ff051e9842b982d0f9e9f4df
+X
+(src/main/java/pe/edu/vg/db/AccesoDB.java,e\a\eaabecbf615a597a4b415fd13947789c52814a46
+[
++src/main/java/pe/edu/vg/dto/DetalleDto.java,c\4\c4b5e5386f4d7349146d1d228dd904a1afa319d2
+[
++src/main/java/pe/edu/vg/dto/UsuarioDto.java,7\c\7c701640934f8dd8fc90a5a7fd22a7a642230654
+Y
+)src/main/java/pe/edu/vg/dto/VentaDto.java,c\9\c92fafe88dd089a1b1527052abf14da9541ebf95
+c
+3src/main/java/pe/edu/vg/prueba/PruebaConection.java,6\c\6c23eb6dcc40040c7bb0271bd6b4123943514e55
+i
+9src/main/java/pe/edu/vg/prueba/PruebaValidaUsuario01.java,a\8\a8f11e549c0f6c4a0d490eada736f271f554ca1d
+a
+1src/main/java/pe/edu/vg/prueba/PruebaVenta03.java,b\a\ba929f772d5588e1627cc26287c47ce515fa6f73
+H
+src/main/webapp/main.jsp,3\7\37a7e7efd6aa64ede7eb56f2f71c420a37050399
+I
+src/main/webapp/Venta.jsp,8\b\8b315af0477c8c6d1cc221a8552906fc88e045c4
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
